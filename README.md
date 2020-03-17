@@ -1,3 +1,3 @@
 ## App is live here :
 
-https://github.com/7rajatgupta/Saarthi-ai-Employee
+https://rajat-saarthi-new-employee.netlify.com/
